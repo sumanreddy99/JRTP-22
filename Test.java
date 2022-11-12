@@ -12,6 +12,10 @@ public String getTest()
 }
 public static void main()
 {
+}
+
+public static void main_1()
+{
 
 }
 
@@ -19,5 +23,3 @@ public static void main_2()
 {
 
 }
-
-
