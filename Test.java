@@ -9,10 +9,15 @@ hello main test
 public String getTest()
 {
   
-
+}
 public static void main()
 {
 
+}
+
+public static void main_2()
+{
 
 }
+
 
