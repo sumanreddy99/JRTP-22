@@ -10,7 +10,7 @@ public String getTest()
 {
   
 
-public void main()
+public static void main()
 {
 
 
