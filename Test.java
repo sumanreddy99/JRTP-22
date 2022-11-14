@@ -1,7 +1,21 @@
 hello world welcome
+
+hello world
 hello welcome 
 
-hello welcome java world
+public String IP;
 
-hello test main
+
+public String name;
+
+public String address;
+
+public Double getSalary()
+{
+}
+
+public String toString()
+{
+}
+
 
